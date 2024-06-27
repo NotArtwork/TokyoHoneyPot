@@ -77,7 +77,9 @@ Attack Map for Live Attacks on HoneyPot
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/50facd35-ccf6-42bf-9cc5-5d6e84ac6dd5)
 
 SIEM + Heat Map
-![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/dda497ec-5afb-4623-ba5b-2037d21826a8)
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/4c78c9f9-2fd0-4305-a1ce-707249b51267)
+
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/d9d4e165-548d-4147-b2fc-67999dc7b5d9)
 
 
 

@@ -64,7 +64,21 @@ Create a AWS EC2 Cloud Server w/ Ubuntu OS.
 Select t2.Large + 128 GB of Space. We need this so that our system is laggy and can run our T-Pot Program.
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/494a9b7c-6146-43f7-ac0f-3aa98651d071)
 
+SSH into machine
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/96f8be44-23b6-4345-b735-719d7f88fedd)
+
+Git Clone T-Pot and Install the on to system.
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/ef1de388-5185-4564-a769-2980a86980dd)
+
 Sign into your machine's Web Portal with credentials you've chosen during setup. 
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/c62a41a2-a855-42e5-bece-64ed0044a2b3)
+
+Attack Map for Live Attacks on HoneyPot
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/50facd35-ccf6-42bf-9cc5-5d6e84ac6dd5)
+
+SIEM
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/dda497ec-5afb-4623-ba5b-2037d21826a8)
+
+
 
 

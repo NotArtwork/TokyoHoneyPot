@@ -61,5 +61,7 @@ Scope: Implement a decoy system to attract cyber attackers, capturing data on th
 Create a AWS EC2 Cloud Server w/ Ubuntu OS.
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/4d4a5360-89c3-43b9-8694-ed47ac75b6ec)
 
+Select t2.Large + 128 GB of Space. We need this so that our system is laggy and can run our T-Pot Program.
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/494a9b7c-6146-43f7-ac0f-3aa98651d071)
 
 

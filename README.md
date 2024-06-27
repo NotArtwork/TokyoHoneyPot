@@ -64,4 +64,7 @@ Create a AWS EC2 Cloud Server w/ Ubuntu OS.
 Select t2.Large + 128 GB of Space. We need this so that our system is laggy and can run our T-Pot Program.
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/494a9b7c-6146-43f7-ac0f-3aa98651d071)
 
+Sign into your machine's Web Portal with credentials you've chosen during setup. 
+![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/c62a41a2-a855-42e5-bece-64ed0044a2b3)
+
 

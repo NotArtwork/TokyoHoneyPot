@@ -76,7 +76,7 @@ Sign into your machine's Web Portal with credentials you've chosen during setup.
 Attack Map for Live Attacks on HoneyPot
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/50facd35-ccf6-42bf-9cc5-5d6e84ac6dd5)
 
-SIEM
+SIEM + Heat Map
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/dda497ec-5afb-4623-ba5b-2037d21826a8)
 
 

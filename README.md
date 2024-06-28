@@ -6,7 +6,7 @@ Objective: Deploy and manage a honeypot in Tokyo to detect, analyze, and underst
 
 Scope: Implement a decoy system to attract cyber attackers, capturing data on their methods and techniques.
 
-### Skills Learned
+## Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -49,7 +49,7 @@ Scope: Implement a decoy system to attract cyber attackers, capturing data on th
 
 - Documented honeypot setup, configuration, and analysis processes.
 
-### Tools Used
+## Tools Used
 
 - Elastic Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Wireshark for capturing and examining network traffic.

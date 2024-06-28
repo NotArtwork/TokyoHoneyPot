@@ -19,7 +19,6 @@ Scope: Implement a decoy system to attract cyber attackers, capturing data on th
 - Developed expertise in setting up and configuring honeypot systems.
 - Simulated realistic and attractive targets to lure cyber attackers.
 
-- 
 ### Cyber Threat Analysis:
 
 - Analyzed attack data to identify patterns, techniques, and tactics used by cybercriminals.

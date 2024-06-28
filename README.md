@@ -3,6 +3,7 @@
 ## Objective
 
 Objective: Deploy and manage a honeypot in Tokyo to detect, analyze, and understand cyber threats.
+
 Scope: Implement a decoy system to attract cyber attackers, capturing data on their methods and techniques.
 
 ### Skills Learned

@@ -24,7 +24,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - VMware
 ## Steps
 
-Drew out Lab Environment.
+Drew out Lab Environment and Relationships between system.
+
 ![Lab Environment drawio](https://github.com/user-attachments/assets/1b24ffe6-5463-42b1-b4db-b35545ca3af1)
 
 

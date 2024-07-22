@@ -28,9 +28,9 @@ Drew out Lab Environment and Relationships between system.
 
 ![Lab Environment drawio](https://github.com/user-attachments/assets/1b24ffe6-5463-42b1-b4db-b35545ca3af1)
 
+Created Windows Environment and Installed Sysmon to keep track system activities.
+![VMWareWindows](https://github.com/user-attachments/assets/280321ea-0daf-4055-bc93-62afb5208069)
 
-Select t2.Large + 128 GB of Space. We need this so that our system is laggy and can run our T-Pot Program.
-![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/494a9b7c-6146-43f7-ac0f-3aa98651d071)
 
 SSH into machine
 ![image](https://github.com/NotArtwork/TokyoHoneyPot/assets/105832230/96f8be44-23b6-4345-b735-719d7f88fedd)
